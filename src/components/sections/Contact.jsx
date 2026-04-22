@@ -10,7 +10,7 @@ export default function Contact() {
 
   const socialLinks = [
     { name: 'GitHub', url: 'https://github.com/ttcook44', icon: '🐙' },
-    { name: 'LinkedIn', url: 'https://linkedin.com', icon: '💼' },
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/tahj-cook', icon: '💼' },
     { name: 'TryHackMe', url: 'https://tryhackme.com', icon: '🛡️' },
   ]
 
